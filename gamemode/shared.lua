@@ -1,7 +1,7 @@
 -- Define gamemode information.
-GM.Name = "NutScript 1.2"
-GM.Author = "Chessnut, Black Tea and the NutScript team"
-GM.Website = "http://nutscript.net/"
+GM.Name = "1980's Mafia Roleplay"
+GM.Author = "Broduer and ISA
+GM.Website = "https://mafiarp.aogamers.net"
 
 nut.version = "1.2.3"
 
