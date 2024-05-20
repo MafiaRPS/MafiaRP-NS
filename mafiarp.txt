@@ -1,0 +1,7 @@
+"mafiarp"
+{
+	"base"		"sandbox"
+	"title"		"1980's Mafia Roleplay"
+	"author"	"Broduer and ISA"
+	"category"	"rp"
+}
